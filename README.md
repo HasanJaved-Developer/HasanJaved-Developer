@@ -2,33 +2,29 @@
 
 ## 🚀 What I Do
 - Design and build scalable backend systems
-- Develop APIs and microservices using .NET & C#
-- Work with relational databases (Oracle, PostgreSQL)
+- Develop Web APP, APIs and microservices using .NET & C#
+- Work with relational databases (Oracle)
 - Focus on clean architecture, performance, and reliability
 
 ## 🧠 Current Focus
 - Distributed systems & microservices
-- AI-assisted backend development
+- Continuous learning and adopting modern development practices
+- Exploring practical use of AI tools to improve backend productivity
 - Observability, caching, and messaging
 
 ## 🛠 Tech Stack
 **Languages:** C#, SQL  
-**Backend:** .NET (Web API, MVC), REST  
-**Databases:** Oracle, PostgreSQL  
+**Backend & Web:** .NET (Web API, MVC), REST  
+**Databases:** Oracle  
 **Messaging & Caching:** RabbitMQ, Redis  
 **DevOps:** Docker, GitHub Actions  
 **Observability:** OpenTelemetry, Serilog
 
 ## 📌 Featured Projects
-- **Project A** – Short description + what problem it solves
-- **Project B** – Architecture or scalability focused
-- **Project C** – Learning / experimental but clean
-
-## 📈 GitHub Stats (optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+- **Message ** – Event-driven messaging and background processing with RabbitMQ and .NET. A single role update can affect hundreds of users — so distributed cache invalidation is essential for consistent authorization.
 
 ## 🤝 Let’s Connect
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- LinkedIn: https://www.linkedin.com/in/hasan-javed-b5bb9617
 
 <!--
 **HasanJaved-Developer/HasanJaved-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
