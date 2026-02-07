@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Backend Engineer
+# 👋 Hi, I'm a Software Engineer (Backend & Web)
 
 ## 🚀 What I Do
 - Design and build scalable backend systems
