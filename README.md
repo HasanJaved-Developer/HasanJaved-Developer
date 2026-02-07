@@ -21,7 +21,7 @@
 **Observability:** OpenTelemetry, Serilog
 
 ## 📌 Featured Projects
-- **Message ** – Event-driven messaging and background processing with RabbitMQ and .NET. A single role update can affect hundreds of users — so distributed cache invalidation is essential for consistent authorization.
+- **MessageHub** – Event-driven messaging and background processing with RabbitMQ and .NET. A single role update can affect hundreds of users — so distributed cache invalidation is essential for consistent authorization.
 
 ## 🤝 Let’s Connect
 - LinkedIn: https://www.linkedin.com/in/hasan-javed-b5bb9617
