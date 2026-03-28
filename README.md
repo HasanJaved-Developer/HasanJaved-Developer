@@ -19,10 +19,9 @@
 ## 🛠 Tech Stack
 **Languages:** C#, Java, SQL  
 **Backend & Web:** .NET (Web API, MVC), REST  
-**Mobile:** Android (Native, Java)
-
+**Mobile:** Android (Native, Java)  
 **Databases:** Oracle  
-**AI & LLM:** LLM Integration, Embeddings, RAG, AI Agents, MCP Servers
+**AI & LLM:** LLM Integration, Embeddings, RAG, AI Agents, MCP Servers   
 **Messaging & Caching:** RabbitMQ, Redis  
 **DevOps:** Docker, GitHub Actions  
 **Observability:** OpenTelemetry, Serilog
