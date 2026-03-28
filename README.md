@@ -3,19 +3,25 @@
 ## 🚀 What I Do
 - Design and build scalable backend systems
 - Develop Web APP, APIs and microservices using .NET & C#
+- Build native Android applications using Java
+- Integrate AI capabilities including LLM, RAG, and MCP server development
 - Work with relational databases (Oracle)
 - Focus on clean architecture, performance, and reliability
 
 ## 🧠 Current Focus
 - Distributed systems & microservices
+- AI-powered application development including LLM integration, RAG, and MCP servers
+- Native Android development using Java
 - Continuous learning and adopting modern development practices
 - Exploring practical use of AI tools to improve backend productivity
 - Observability, caching, and messaging
 
 ## 🛠 Tech Stack
-**Languages:** C#, SQL  
+**Languages:** C#, Java, SQL  
 **Backend & Web:** .NET (Web API, MVC), REST  
+**Mobile:** Android (Native, Java)
 **Databases:** Oracle  
+**AI & LLM:** LLM Integration, Embeddings, RAG, AI Agents, MCP Servers
 **Messaging & Caching:** RabbitMQ, Redis  
 **DevOps:** Docker, GitHub Actions  
 **Observability:** OpenTelemetry, Serilog
